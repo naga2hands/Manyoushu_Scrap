@@ -5,7 +5,7 @@ import re
 import time
 import os
 
-# Complete list of 20 Man'yōshū volumes from Wikisource
+# Complete list of 20 Man'yōshū volumes frm Wikisource
 base_url = "https://ja.wikisource.org/wiki/%E4%B8%87%E8%91%89%E9%9B%86/"
 volumes = [
     "第一巻", "第二巻", "第三巻", "第四巻", "第五巻", "第六巻", "第七巻", "第八巻", "第九巻", "第十巻",
